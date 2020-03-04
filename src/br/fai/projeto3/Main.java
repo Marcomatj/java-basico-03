@@ -37,11 +37,3 @@ public class Main {
 		}
 	}
 }
-
-/*
- * Criar um projeto que: Receba uma idade Exiba a mensagem “Idade maior que 20”,
- * caso seja maior que 20 Exiba a mensagem “Idade maior que 12 e menor que 17”,
- * caso esteja entre 12 e 17 Exiba a mensagem “Idade igual a 7 OU menor que 5”,
- * caso seja igual a 7 ou menor que 5 Exiba a mensagem “Outras combinações”,
- * caso seja diferente de todos os anteriores
- */
